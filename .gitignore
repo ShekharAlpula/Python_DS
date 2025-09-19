@@ -1,0 +1,8 @@
+*.json
+*.log
+*.sqlite
+.env
+.vscode/
+*.pyc
+__pycache__/
+*.codebuddy
